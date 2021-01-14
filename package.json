@@ -1,0 +1,11 @@
+{
+  "name": "aws-ses-list",
+  "version": "0.0.1",
+  "description": "Library for managing mailing list with AWS SES.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Senthil Arivudainambi",
+  "license": "MIT"
+}
